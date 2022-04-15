@@ -33,6 +33,7 @@ github_username:  filipemosca
 #theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   # - jekyll-last-modified-at  
 
 
